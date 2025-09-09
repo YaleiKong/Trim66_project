@@ -1,0 +1,37 @@
+name: picard
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - bzip2=1.0.8=h7b6447c_0
+  - ca-certificates=2023.08.22=h06a4308_0
+  - dbus=1.13.18=hb2f20db_0
+  - expat=2.5.0=h6a678d5_0
+  - freetype=2.12.1=h4a9f257_0
+  - glib=2.69.1=he621ea3_2
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.4.4=h6a678d5_0
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libpng=1.6.39=h5eee18b_0
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - libuuid=1.41.5=h5eee18b_0
+  - libxcb=1.15=h7f8727e_0
+  - ncurses=6.4=h6a678d5_0
+  - openjdk=11.0.13=h87a67e3_0
+  - openssl=3.0.10=h7f8727e_2
+  - pcre=8.45=h295c915_0
+  - picard=2.18.29=0
+  - pip=23.2.1=py311h06a4308_0
+  - python=3.11.5=h955ad1f_0
+  - readline=8.2=h5eee18b_0
+  - setuptools=68.0.0=py311h06a4308_0
+  - sqlite=3.41.2=h5eee18b_0
+  - tk=8.6.12=h1ccaba5_0
+  - tzdata=2023c=h04d1e81_0
+  - wheel=0.38.4=py311h06a4308_0
+  - xz=5.4.2=h5eee18b_0
+  - zlib=1.2.13=h5eee18b_0
+prefix: /lustre/home/acct-medlqian/medlqian-loop3/.conda/envs/picard

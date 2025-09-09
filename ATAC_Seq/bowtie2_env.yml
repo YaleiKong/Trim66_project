@@ -1,0 +1,40 @@
+name: bowtie2
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - bowtie2=2.4.1=py38he513fc3_0
+  - bzip2=1.0.8=h7b6447c_0
+  - c-ares=1.19.1=h5eee18b_0
+  - ca-certificates=2023.08.22=h06a4308_0
+  - curl=8.2.1=h37d81fd_0
+  - gdbm=1.18=hd4cb3f1_4
+  - krb5=1.20.1=h568e23c_1
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libcurl=8.2.1=h91b91d3_0
+  - libedit=3.1.20221030=h5eee18b_0
+  - libev=4.33=h7f8727e_1
+  - libffi=3.4.4=h6a678d5_0
+  - libgcc=7.2.0=h69d50b8_2
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libnghttp2=1.52.0=ha637b67_1
+  - libssh2=1.10.0=h37d81fd_2
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - ncurses=6.4=h6a678d5_0
+  - openssl=1.1.1w=h7f8727e_0
+  - perl=5.34.0=h5eee18b_2
+  - pip=23.3.1=py38h06a4308_0
+  - python=3.8.18=h7a1cb2a_0
+  - readline=8.2=h5eee18b_0
+  - samtools=1.5=1
+  - setuptools=68.0.0=py38h06a4308_0
+  - sqlite=3.41.2=h5eee18b_0
+  - tbb=2020.3=hfd86e86_0
+  - tk=8.6.12=h1ccaba5_0
+  - wheel=0.41.2=py38h06a4308_0
+  - xz=5.4.5=h5eee18b_0
+  - zlib=1.2.13=h5eee18b_0
+prefix: /lustre/home/acct-medlqian/medlqian-loop3/.conda/envs/bowtie2
