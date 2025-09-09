@@ -4,4 +4,4 @@ This repository contains all codes used to analyse the data reported in "An epig
 ## Data
 Sequencing datasets are deposited in GEO under accession number GSE277322 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE277322).
 ## Installation
-To reproduce the analysis, install the specific versions of R packages listed in `requirements.txt`.
+For reproducibility, install the R packages in `r_requirements.txt` (R scripts), the Python packages in `python_requirements.txt` (Jupyter notebooks), and configure the required software versions for SLURM scripts.
